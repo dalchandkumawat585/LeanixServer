@@ -1,0 +1,5 @@
+io\dropwizard\LeanIXConfiguration.class
+io\dropwizard\LeanIXApplication.class
+io\dropwizard\api\Tag.class
+io\dropwizard\api\Todo.class
+io\dropwizard\resources\TodoResource.class
